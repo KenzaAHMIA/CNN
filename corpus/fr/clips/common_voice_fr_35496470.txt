@@ -1,1 +1,0 @@
-Chaque table peut utiliser un moteur différent au sein d'une base.

@@ -1,1 +1,0 @@
-Les transitions sont progressives, et il n'y a pas d'effet de bord.

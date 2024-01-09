@@ -1,1 +1,0 @@
-En théorie de la complexité, les constantes multiplicatives ne sont pas prises en compte.

@@ -1,1 +1,0 @@
-La partie s’arrête quand aucun des joueurs n’a de cartes sauf un.

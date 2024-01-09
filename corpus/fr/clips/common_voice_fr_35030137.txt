@@ -1,1 +1,0 @@
-Si le résultat du test est négatif, une telle lanière n’apparaitra pas.

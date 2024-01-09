@@ -1,1 +1,0 @@
-Cela permet au fournisseur de localiser la station mobile en cas d'appel entrant.

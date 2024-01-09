@@ -1,1 +1,0 @@
-Le théorème de l'élément primitif assure que toute extension finie et séparable est simple.

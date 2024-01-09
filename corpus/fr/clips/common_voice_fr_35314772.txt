@@ -1,1 +1,0 @@
-Faisant un tour complet l'opérateur compte le nombre d'arbres qui obturent complètement l'encoche.

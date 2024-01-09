@@ -1,1 +1,0 @@
-Il a conçu avec Vincent Rijmen la fonction de hachage cryptographique Whirlpool.

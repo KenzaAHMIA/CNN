@@ -1,1 +1,0 @@
-Ces points sont cocycliques et forme un hexagone de Lemoine.

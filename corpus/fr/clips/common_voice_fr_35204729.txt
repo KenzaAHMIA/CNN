@@ -1,1 +1,0 @@
-Cette bibliothèque n'est plus maintenue actuellement par Microsoft.

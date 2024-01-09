@@ -1,1 +1,0 @@
-Chaque fonction ƒ est estimée à partir des données.

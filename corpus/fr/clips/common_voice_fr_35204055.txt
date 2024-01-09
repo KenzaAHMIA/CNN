@@ -1,1 +1,0 @@
-La machine crée ensuite un modèle de ce document, appelé master.

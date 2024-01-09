@@ -1,1 +1,0 @@
-Cette calculatrice permet le calcul de dérivées et d'intégrales, le calcul formel et matriciel.

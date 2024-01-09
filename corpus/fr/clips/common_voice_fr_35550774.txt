@@ -1,1 +1,0 @@
-Il réalise l’envoi de messages simples.

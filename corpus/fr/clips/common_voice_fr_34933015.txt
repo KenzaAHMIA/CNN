@@ -1,1 +1,0 @@
-Le complémentaire du complémentaire redonne la partie initiale.

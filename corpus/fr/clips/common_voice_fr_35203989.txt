@@ -1,1 +1,0 @@
-Le chargement des munitions dans les cargos s'effectuait sans interruption.

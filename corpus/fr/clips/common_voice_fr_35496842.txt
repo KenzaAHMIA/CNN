@@ -1,1 +1,0 @@
-Elles représentent la réponse chromatique d'un observateur normalisé.

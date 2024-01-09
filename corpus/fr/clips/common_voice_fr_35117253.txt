@@ -1,1 +1,0 @@
-Il a été étendu aux espaces bidimensionnels et aux suites tronquées.

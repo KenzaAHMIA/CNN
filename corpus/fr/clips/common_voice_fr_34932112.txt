@@ -1,1 +1,0 @@
-Elle permet d'allouer la mémoire nécessaire à l'objet et d'initialiser ses attributs.

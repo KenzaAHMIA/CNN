@@ -1,1 +1,0 @@
-Autrement dit, l'offset est la distance séparant deux emplacements mémoire.

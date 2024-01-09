@@ -1,1 +1,0 @@
-L'équation de Poisson-Boltzmann ne possède pas de solution analytique dans le cas général.

@@ -1,1 +1,0 @@
-L'ensemble des coniques est stable par transformation affine ou par changement de repère.

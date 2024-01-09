@@ -1,1 +1,0 @@
-S'il n'en fait pas partie, il passe au suivant.

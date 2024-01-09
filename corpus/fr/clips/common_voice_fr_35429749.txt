@@ -1,1 +1,0 @@
-Cette condition entraîne que les points fixes sont isolés.

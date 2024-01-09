@@ -1,10 +1,10 @@
 form generate_spectrograms_as_images_from_sound_files
-	sentence sndFilesFolder /Users/kenza/Documents/etudes/M2_TAL/semestre1/CNN/RNN/corpus/ar/son-wav/wav_extraitsDecoupes
+	sentence sndFilesFolder /Users/kenza/Documents/etudes/M2_TAL/semestre1/CNN/RNN/corpus/fr/wav_extraitsDecoupes
 	word sndFilesExtension .wav
 	word sndFilesRegex *.wav
 	comment Set sound file max duration to 0 to autodetect
 	real soundFilesMaxDuration_seconds 0
-	sentence generatedImagesFolder /Users/kenza/Documents/etudes/M2_TAL/semestre1/CNN/RNN/corpus/ar/spectr-img
+	sentence generatedImagesFolder /Users/kenza/Documents/etudes/M2_TAL/semestre1/CNN/RNN/corpus/fr/spectr-img
 	# Spectrogram settings, see http://www.fon.hum.uva.nl/praat/manual/Sound__To_Spectrogram___.html for details
 	real spectrogramWindowLength_seconds 0.005
 	natural spectrogramMaxFrequency_Hz 8000

@@ -1,1 +1,0 @@
-Spotify, qui intégrait le bouton propriétaire Spotify Connect a accepté d’être intégré à Chromecast.

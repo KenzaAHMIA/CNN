@@ -1,1 +1,0 @@
-Soit la courbe du plan d'équation cartésienne et un point appartenant à la courbe.

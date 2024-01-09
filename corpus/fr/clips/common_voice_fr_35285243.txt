@@ -1,1 +1,0 @@
-En programmation informatique, une assertion est une expression qui doit être évaluée à vrai.

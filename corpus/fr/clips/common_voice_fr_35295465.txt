@@ -1,0 +1,1 @@
+Chaque personnage a son propre style de combat et ses propres styles de combos.

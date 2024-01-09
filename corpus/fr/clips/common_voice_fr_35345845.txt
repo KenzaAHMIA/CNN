@@ -1,0 +1,1 @@
+Techniquement, la notion de cointégration implique implicitement celle d'intégration.

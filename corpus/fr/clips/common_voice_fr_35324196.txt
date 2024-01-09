@@ -1,0 +1,1 @@
+Dans le modèle publication-abonnement, des entités s’inscrivent sur un topic pour recevoir des messages.

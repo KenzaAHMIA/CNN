@@ -1,0 +1,1 @@
+Le théorème de Banach-Steinhaus concerne les familles, et notamment les suites, d'opérateurs bornés.

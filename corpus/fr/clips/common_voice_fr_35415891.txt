@@ -1,0 +1,1 @@
+Le multiplexage temporel est assez complexe.

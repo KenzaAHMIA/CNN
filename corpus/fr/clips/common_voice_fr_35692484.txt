@@ -1,0 +1,1 @@
+Les premières versions du système limitaient les noms de fichier à six caractères.

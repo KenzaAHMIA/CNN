@@ -1,0 +1,94 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.784000
+tiers? <exists> 
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 2.784000
+        intervals: size = 20
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.090000
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.090000
+            xmax = 0.510000
+            text = "<nib>"
+        intervals [3]:
+            xmin = 0.510000
+            xmax = 0.590000
+            text = "dd"
+        intervals [4]:
+            xmin = 0.590000
+            xmax = 0.640000
+            text = "{:"
+        intervals [5]:
+            xmin = 0.640000
+            xmax = 0.690000
+            text = "r"
+        intervals [6]:
+            xmin = 0.690000
+            xmax = 0.720000
+            text = "h"
+        intervals [7]:
+            xmin = 0.720000
+            xmax = 0.800000
+            text = "r"
+        intervals [8]:
+            xmin = 0.800000
+            xmax = 0.870000
+            text = "a"
+        intervals [9]:
+            xmin = 0.870000
+            xmax = 0.970000
+            text = "s_?\"
+        intervals [10]:
+            xmin = 0.970000
+            xmax = 1.040000
+            text = "a"
+        intervals [11]:
+            xmin = 1.040000
+            xmax = 1.080000
+            text = "l"
+        intervals [12]:
+            xmin = 1.080000
+            xmax = 1.180000
+            text = "i:"
+        intervals [13]:
+            xmin = 1.180000
+            xmax = 1.210000
+            text = "h"
+        intervals [14]:
+            xmin = 1.210000
+            xmax = 1.310000
+            text = "<nib>"
+        intervals [15]:
+            xmin = 1.310000
+            xmax = 1.540000
+            text = "E:"
+        intervals [16]:
+            xmin = 1.540000
+            xmax = 1.830000
+            text = "i:"
+        intervals [17]:
+            xmin = 1.830000
+            xmax = 2.050000
+            text = "<nib>"
+        intervals [18]:
+            xmin = 2.050000
+            xmax = 2.450000
+            text = "<usb>"
+        intervals [19]:
+            xmin = 2.450000
+            xmax = 2.690000
+            text = "<nib>"
+        intervals [20]:
+            xmin = 2.690000
+            xmax = 2.784000
+            text = "<p:>"

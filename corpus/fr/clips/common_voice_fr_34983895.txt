@@ -1,0 +1,1 @@
+Les flux ethernet sont alors écrêtés en commençant par les flux les moins prioritaires.

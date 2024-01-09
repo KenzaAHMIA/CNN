@@ -1,0 +1,1 @@
+Le décodage se fait par vote majoritaire.

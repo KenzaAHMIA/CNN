@@ -1,0 +1,1 @@
+Chaque cavalier monte tour à tour les quatre chevaux sur un parcours.

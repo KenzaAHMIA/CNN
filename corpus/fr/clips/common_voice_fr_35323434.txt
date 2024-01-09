@@ -1,0 +1,1 @@
+Certaines fonctionnalités du service ne sont cependant accessibles qu’à travers le navigateur web.

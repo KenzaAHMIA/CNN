@@ -1,0 +1,1 @@
+Un tel chemin est appelé un chemin de Schröder.

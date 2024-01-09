@@ -1,0 +1,1 @@
+Une fois le programme compilé, le fichier binaire doit être envoyé au microcontrôleur.

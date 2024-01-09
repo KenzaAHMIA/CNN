@@ -1,0 +1,1 @@
+Dans une carte auto-organisatrice, les vecteurs référents fournissent une représentation discrète de l'espace d'entrée.

@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.496000
+tiers? <exists> 
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 2.496000
+        intervals: size = 16
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.030000
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.030000
+            xmax = 0.230000
+            text = "<usb>"
+        intervals [3]:
+            xmin = 0.230000
+            xmax = 0.350000
+            text = "ll"
+        intervals [4]:
+            xmin = 0.350000
+            xmax = 0.550000
+            text = "a:"
+        intervals [5]:
+            xmin = 0.550000
+            xmax = 0.640000
+            text = "u:"
+        intervals [6]:
+            xmin = 0.640000
+            xmax = 0.810000
+            text = "i:"
+        intervals [7]:
+            xmin = 0.810000
+            xmax = 0.860000
+            text = "D"
+        intervals [8]:
+            xmin = 0.860000
+            xmax = 0.940000
+            text = "u:"
+        intervals [9]:
+            xmin = 0.940000
+            xmax = 1.010000
+            text = "l"
+        intervals [10]:
+            xmin = 1.010000
+            xmax = 1.110000
+            text = "?\"
+        intervals [11]:
+            xmin = 1.110000
+            xmax = 1.170000
+            text = "{:"
+        intervals [12]:
+            xmin = 1.170000
+            xmax = 1.240000
+            text = "m"
+        intervals [13]:
+            xmin = 1.240000
+            xmax = 1.330000
+            text = "a:"
+        intervals [14]:
+            xmin = 1.330000
+            xmax = 1.510000
+            text = "ll"
+        intervals [15]:
+            xmin = 1.510000
+            xmax = 2.430000
+            text = "<usb>"
+        intervals [16]:
+            xmin = 2.430000
+            xmax = 2.496000
+            text = "<p:>"

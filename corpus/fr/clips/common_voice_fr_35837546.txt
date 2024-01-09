@@ -1,0 +1,1 @@
+On peut détecter une présence, mais le positionnement de l'obstacle n'est pas possible.

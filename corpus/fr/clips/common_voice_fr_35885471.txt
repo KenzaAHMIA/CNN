@@ -1,0 +1,1 @@
+Une isométrie linéaire d'un espace vectoriel normé dans un autre est appelée un plongement.

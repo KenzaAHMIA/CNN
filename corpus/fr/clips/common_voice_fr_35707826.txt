@@ -1,0 +1,1 @@
+Ce système reste totalement transparent du point de vue du développeur de l'application client.

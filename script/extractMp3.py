@@ -3,12 +3,12 @@ import csv
 
 def create_textfiles(row): # function to create text files
     fileName = str(row[0].split('.')[0]) 
-    with open('../corpus/ar/' +fileName +'.txt', 'w') as f: # create text file
+    with open('../corpus/fr/' +fileName +'.txt', 'w') as f: # create text file
         f.write(row[1]) # write sentence to text file
         f.close() # close file
 
 
-with open('../corpus/ar/validated.tsv', 'r') as tsvfile: # open tsv file
+with open('../corpus/fr/validated.tsv', 'r') as tsvfile: # open tsv file
     reader = csv.reader(tsvfile, delimiter='\t') # read tsv file
     data = [] # create empty list
     for row in reader: # loop through each row

@@ -1,0 +1,1 @@
+Il s'agit d'une paramétrisation générale des surfaces minimales.

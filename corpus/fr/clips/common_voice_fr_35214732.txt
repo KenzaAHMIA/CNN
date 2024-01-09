@@ -1,0 +1,1 @@
+Il suffit alors de montrer qu’un chemin est fini pour conclure.

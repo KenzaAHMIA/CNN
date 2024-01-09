@@ -1,0 +1,1 @@
+Chacune des applications embarquant Rhino peut exposer ses propres fonctionnalités.

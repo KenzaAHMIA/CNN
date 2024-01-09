@@ -1,0 +1,1 @@
+Outre les sémaphores à compteur interne, il existe également les sémaphores bloquants.

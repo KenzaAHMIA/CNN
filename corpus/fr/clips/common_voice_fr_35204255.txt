@@ -1,0 +1,1 @@
+Le système de contrôle du moteur fonctionne selon le principe de la régulation.

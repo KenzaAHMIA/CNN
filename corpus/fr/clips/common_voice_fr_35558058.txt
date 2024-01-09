@@ -1,0 +1,1 @@
+La méthode qui y est décrite figure dans la plupart des ouvrages d'analyse numérique.

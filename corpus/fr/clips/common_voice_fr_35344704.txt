@@ -1,0 +1,1 @@
+Il en existe un modèle étendu qui généralise également le modèle vectoriel.

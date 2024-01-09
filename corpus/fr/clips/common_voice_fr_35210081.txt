@@ -1,0 +1,1 @@
+Cela permet de trouver la date d'un incendie historique.

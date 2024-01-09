@@ -1,0 +1,1 @@
+Les personnages peuvent aussi utiliser des transformations s'ils en possèdent.

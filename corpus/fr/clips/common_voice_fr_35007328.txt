@@ -1,0 +1,1 @@
+Qu'il s'agisse ou non d'un tableau, une variable statique se déclare avec static.

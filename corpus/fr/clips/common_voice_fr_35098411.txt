@@ -1,0 +1,1 @@
+Toute famille orthogonale formée de vecteurs non nuls est libre.

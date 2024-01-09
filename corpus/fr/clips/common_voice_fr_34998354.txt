@@ -1,0 +1,1 @@
+La formulation laisse ouverte la possibilité d'étapes antérieures de la compilation des sources.

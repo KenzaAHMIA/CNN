@@ -1,0 +1,1 @@
+Il gère une chaîne de maisons de retraite et de cliniques de soins.

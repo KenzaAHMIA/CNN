@@ -1,0 +1,1 @@
+Les ensembles réduits à un seul élément sont appelés singletons.

@@ -1,0 +1,1 @@
+Cyrus est un logiciel libre distribué sous Carnegie Mellon University License.

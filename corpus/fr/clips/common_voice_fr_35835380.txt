@@ -1,0 +1,1 @@
+Le pilote automatique qui gère la puissance réduit les gaz sur ralenti.

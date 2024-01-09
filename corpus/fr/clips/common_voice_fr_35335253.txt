@@ -1,0 +1,1 @@
+Son dual établit une équivalence entre filtres premiers et ultrafiltres.

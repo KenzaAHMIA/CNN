@@ -1,0 +1,1 @@
+La norme impose également qu'il n'y ait qu'un seul émetteur par bus.

@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.096000
+tiers? <exists> 
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "MAU"
+        xmin = 0
+        xmax = 3.096000
+        intervals: size = 23
+        intervals [1]:
+            xmin = 0.000000
+            xmax = 0.030000
+            text = "<p:>"
+        intervals [2]:
+            xmin = 0.030000
+            xmax = 0.200000
+            text = "<usb>"
+        intervals [3]:
+            xmin = 0.200000
+            xmax = 0.300000
+            text = "{:"
+        intervals [4]:
+            xmin = 0.300000
+            xmax = 0.440000
+            text = "l"
+        intervals [5]:
+            xmin = 0.440000
+            xmax = 0.480000
+            text = "t"
+        intervals [6]:
+            xmin = 0.480000
+            xmax = 0.630000
+            text = "a:"
+        intervals [7]:
+            xmin = 0.630000
+            xmax = 0.760000
+            text = "f"
+        intervals [8]:
+            xmin = 0.760000
+            xmax = 0.870000
+            text = "i:"
+        intervals [9]:
+            xmin = 0.870000
+            xmax = 0.920000
+            text = "l"
+        intervals [10]:
+            xmin = 0.920000
+            xmax = 0.980000
+            text = "e"
+        intervals [11]:
+            xmin = 0.980000
+            xmax = 1.060000
+            text = "h"
+        intervals [12]:
+            xmin = 1.060000
+            xmax = 1.110000
+            text = "j"
+        intervals [13]:
+            xmin = 1.110000
+            xmax = 1.250000
+            text = "a:"
+        intervals [14]:
+            xmin = 1.250000
+            xmax = 1.330000
+            text = "ll"
+        intervals [15]:
+            xmin = 1.330000
+            xmax = 1.390000
+            text = "I"
+        intervals [16]:
+            xmin = 1.390000
+            xmax = 1.510000
+            text = "l"
+        intervals [17]:
+            xmin = 1.510000
+            xmax = 1.550000
+            text = "h"
+        intervals [18]:
+            xmin = 1.550000
+            xmax = 1.770000
+            text = "E:"
+        intervals [19]:
+            xmin = 1.770000
+            xmax = 1.850000
+            text = "ll"
+        intervals [20]:
+            xmin = 1.850000
+            xmax = 1.940000
+            text = "i"
+        intervals [21]:
+            xmin = 1.940000
+            xmax = 2.120000
+            text = "nn"
+        intervals [22]:
+            xmin = 2.120000
+            xmax = 3.000000
+            text = "<usb>"
+        intervals [23]:
+            xmin = 3.000000
+            xmax = 3.096000
+            text = "<p:>"

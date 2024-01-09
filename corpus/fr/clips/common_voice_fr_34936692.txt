@@ -1,0 +1,1 @@
+Chaque module, de forme identique, représente une algue.

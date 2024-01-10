@@ -1,7 +1,6 @@
 # files
-./corpus/*
-
-
+corpus/*
+model/*
 
 # DS_Store
 .DS_Store

@@ -1,5 +1,5 @@
 form generate_spectrograms_as_images_from_sound_files
-	sentence sndFilesFolder /Users/kenza/Documents/etudes/M2_TAL/semestre1/CNN/RNN/corpus/fr/wav_extraitsDecoupes
+	sentence sndFilesFolder /Users/kenza/Documents/etudes/M2_TAL/semestre1/CNN/RNN/corpus/fr/sons_wav/wav_extraitsDecoupes
 	word sndFilesExtension .wav
 	word sndFilesRegex *.wav
 	comment Set sound file max duration to 0 to autodetect
